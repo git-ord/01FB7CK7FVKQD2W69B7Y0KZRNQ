@@ -4,7 +4,9 @@
     "id": null,
     "url": null
   },
-  "customer": null,
+  "customer": {
+    "email": "john.doe+test@email.com"
+  },
   "id": "01FB7CK7FVKQD2W69B7Y0KZRNQ",
   "url": "https://github.com/git-ord/01FB7CK7FVKQD2W69B7Y0KZRNQ.git",
   "status": "open",
@@ -20,12 +22,8 @@
     "amount": 1500,
     "currency": "USD"
   },
-  "discounts": [
-
-  ],
-  "taxes": [
-
-  ],
+  "discounts": [],
+  "taxes": [],
   "shipping": {
     "address": null,
     "method": null,
