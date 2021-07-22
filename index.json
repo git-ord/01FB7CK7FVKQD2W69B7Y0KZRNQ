@@ -19,11 +19,19 @@
     "currency": "USD"
   },
   "total": {
-    "amount": 1500,
+    "amount": 1650.0,
     "currency": "USD"
   },
-  "discounts": [],
-  "taxes": [],
+  "discounts": [
+
+  ],
+  "taxes": [
+    {
+      "type": "sales tax",
+      "amount": 150.0,
+      "currency": "USD"
+    }
+  ],
   "shipping": {
     "address": null,
     "method": null,
